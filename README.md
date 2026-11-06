@@ -10,7 +10,7 @@ D-IV Industrial Electronics graduate from Politeknik Negeri Padang, with hands-o
 | Project | What it does | Stack |
 |---|---|---|
 | Elbow rehab 1-DOF | Post-stroke elbow exercise device with Fuzzy Mamdani scoring | ESP32-C6, closed-loop stepper, AS5600, Python |
-| SCADA autoclave | HMI monitoring and control of a sterilisation cycle | InfoU, XG5000, CX-Programmer |
+| [SCADA autoclave](https://github.com/adefauzann/scada-autoclave) | HMI monitoring and control of a sterilisation cycle | InfoU, XG5000, CX-Programmer |
 | PLC traffic light | 3-way junction traffic light with ladder logic and HMI | LS PLC, XG5000, XP-Builder |
 
 ## Tools
