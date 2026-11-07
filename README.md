@@ -17,6 +17,7 @@ D-IV Industrial Electronics graduate from Politeknik Negeri Padang, with hands-o
 | [Conveyor load control](https://github.com/adefauzann/conveyor-load-control) | Belt slows as the load rises to protect a stone crusher | PLC XGB, Arduino, HX711 |
 | [Smart curtain IoT](https://github.com/adefauzann/smart-curtain-iot) | Automatic curtain and fan with MQTT status | ESP32, DHT11, LDR, MQTT |
 | [Vehicle safety](https://github.com/adefauzann/vehicle-safety-atmega8535) | Distance and radiator temperature warning with a custom PCB | ATmega8535, Proteus, EAGLE |
+| [Ferto 5 seedbowl CAD](https://github.com/adefauzann/ferto5-seedbowl-cad) | Seedbowl and drone parts modelled in Inventor | Autodesk Inventor |
 | [Coffee maker PLC](https://github.com/adefauzann/plc-coffee-maker) | Valve and mixing chamber control with a 10 s timer | S7-1200, TIA Portal |
 
 ## Internships
