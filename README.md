@@ -9,8 +9,10 @@ D-IV Industrial Electronics graduate from Politeknik Negeri Padang, with hands-o
 
 | Project | What it does | Stack |
 |---|---|---|
-| [Elbow rehab 1-DOF](https://github.com/adefauzann/elbow-rehab-1dof) | Post-stroke elbow exercise device with Fuzzy Mamdani scoring | ESP32-C6, closed-loop stepper, AS5600, Python |
+| [Elbow rehab 1-DOF](https://github.com/adefauzann/elbow-rehab-1dof) | Post-stroke elbow exercise device with Fuzzy Mamdani scoring | ESP32-C6, closed-loop stepper, AS5600, Python, MATLAB |
 | [SCADA autoclave](https://github.com/adefauzann/scada-autoclave) | HMI monitoring and control of a sterilisation cycle | InfoU, XG5000, CX-Programmer |
+| [SCADA water and steam](https://github.com/adefauzann/scada-water-steam) | Water tank and steam generation process labs | InfoU, XG5000 |
+| [PID control in Simulink](https://github.com/adefauzann/pid-control-simulink) | P, PD and PID controller design with step response results | MATLAB, Simulink |
 | [PLC traffic light](https://github.com/adefauzann/plc-traffic-light) | 3-way junction traffic light with ladder logic and HMI | LS PLC, XG5000, XP-Builder |
 | [Conveyor load control](https://github.com/adefauzann/conveyor-load-control) | Belt slows as the load rises to protect a stone crusher | PLC XGB, Arduino, HX711 |
 | [Smart curtain IoT](https://github.com/adefauzann/smart-curtain-iot) | Automatic curtain and fan with MQTT status | ESP32, DHT11, LDR, MQTT |
@@ -27,7 +29,8 @@ D-IV Industrial Electronics graduate from Politeknik Negeri Padang, with hands-o
 
 ## Tools
 
-- **Automation:** CX-Programmer, XG5000, TIA Portal, LabVIEW
+- **Automation:** CX-Programmer, XG5000, TIA Portal, InfoU, LabVIEW
+- **Modelling:** MATLAB, Simulink, Fuzzy Logic Toolbox
 - **Embedded and IoT:** ESP32, Arduino, ATmega8535, MQTT
 - **CAD:** Inventor, SolidWorks
 - **Field work:** panel testing, calibration and QC, fusion splicing
