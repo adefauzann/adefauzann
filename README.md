@@ -3,6 +3,8 @@
 E&I engineer focused on PLC, SCADA/HMI and embedded systems.  
 D-IV Industrial Electronics graduate from Politeknik Negeri Padang, with hands-on experience in railway, agricultural drone and telecom work.
 
+🌐 **[Portfolio website: adefauzann.github.io](https://adefauzann.github.io)**
+
 [LinkedIn](https://www.linkedin.com/in/adefauzan) · adefauzanwork@gmail.com · Dumai, Indonesia
 
 ## Featured projects
